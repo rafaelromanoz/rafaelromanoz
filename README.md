@@ -5,7 +5,7 @@
   <div align="left" style="display: inline_block">
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🌱 Aprendendo DOCKER</li>
-    <li>- 💬 Me pergunte sobre [Coloque aqui o que você gostaria de conversar]</li>
+    <li>- 💬 Me pergunte sobre tecnologias, anime, manga, séries, games, futebol, basquete e também arrisco um pouco de política!</li>
     <li>- 😄 Pronomes: Ele-Dele</li>
     <li>- ⚡ Fun fact: [alguma curiosidade sua]</li>
   </div>
