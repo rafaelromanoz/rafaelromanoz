@@ -15,6 +15,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelromanoz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelromanoz&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
+  <a href="https://app.daily.dev/RafaelRomanoz"><img src="https://api.daily.dev/devcards/5972918ed0804038b13aa7b7478acf53.png?r=281" width="400" alt="Rafael Romano's Dev Card"/></a>
 </div>
 
 ---
