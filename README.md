@@ -3,8 +3,7 @@
 <div align="center">
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
-    <li>- 🔭 Atualmente trabalho na Pill Farmácia Digital </li>
-    <li>- 🌱 AWS Serverless </li>
+    <li>- 🌱 Estudando atualmente AWS Serverless </li>
     <li>- 💬 Me pergunte sobre tecnologias, anime, manga, séries, games, futebol, basquete e também arrisco um pouco de política!</li>
     <li>- 😄 Pronomes: Ele-Dele</li>
   </div>
