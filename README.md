@@ -9,12 +9,6 @@
 
 ---
 
-<div align="center">
-  <span href="https://app.daily.dev/RafaelRomanoz"><img src="https://api.daily.dev/devcards/5972918ed0804038b13aa7b7478acf53.png?r=281" width="200" alt="Rafael Romano's Dev Card"/></span>
-</div>
-
----
-
 ### Ferramentas e tecnologias que utilizo:
 
 <div>
